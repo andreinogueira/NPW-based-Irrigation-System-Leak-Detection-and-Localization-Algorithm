@@ -1,4 +1,4 @@
-% PLD NPW Method with FBG-based pressure sensors sector 1 simulation.
+% Pipeline Leak Detection and Localization based on NPW Method with FBG-based pressure sensors sector 1 simulation.
 
 % Expected Leaks locations:
 % LP: 5.0m 
